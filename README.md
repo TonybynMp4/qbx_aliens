@@ -2,4 +2,5 @@
 Just a small dumb project i did in 20 minutes at 4 AM
 
 # Preview
-https://cdn.discordapp.com/attachments/987800806768128030/991531780798689290/i_made_it_so_you_dont_have_to.mp4
+
+https://user-images.githubusercontent.com/97451137/176340495-ad233f5c-ec89-4923-ac2b-85a789237073.mp4
